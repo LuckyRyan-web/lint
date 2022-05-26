@@ -1,5 +1,5 @@
 module.exports = {
-    extends: 'stylelint-config-standard-scss',
+    extends: ['stylelint-config-standard-scss', 'stylelint-config-rational-order"'],
     plugins: ['stylelint-order'],
     rules: {
         'color-function-notation': null,
