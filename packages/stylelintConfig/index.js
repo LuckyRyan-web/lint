@@ -1,5 +1,5 @@
 module.exports = {
-    extends: ['stylelint-config-standard-scss', 'stylelint-config-rational-order'],
+    extends: ['stylelint-config-standard-scss'],
     plugins: ['stylelint-order'],
     rules: {
         'color-function-notation': null,
@@ -98,6 +98,11 @@ module.exports = {
                     'border-radius'
                 ]
             },
+            'color',
+            {
+                order: 'flexible',
+                properties: ['font-weight', 'font-size']
+            },
             'background',
             {
                 order: 'flexible',
@@ -108,11 +113,6 @@ module.exports = {
                     'background-size',
                     'background-color'
                 ]
-            },
-            'color',
-            {
-                order: 'flexible',
-                properties: ['font-weight', 'font-size']
             },
             {
                 order: 'flexible',
