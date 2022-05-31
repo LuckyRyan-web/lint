@@ -1,6 +1,6 @@
 {
   "name": "@ryan-liu/eslint-config-react-app",
-  "version": "0.0.0",
+  "version": "0.1.0-alpha.0",
   "description": "用与 react tsx 配置",
   "author": "liuyuan <373005226@qq.com>",
   "homepage": "https://github.com/LuckyRyan-web/scripts#readme",

@@ -1,6 +1,6 @@
 {
   "name": "@ryan-liu/eslint-config-ts",
-  "version": "0.0.0",
+  "version": "0.1.0-alpha.0",
   "description": "用于 ts 类型的 eslint 检测",
   "keywords": [
     "eslint"
