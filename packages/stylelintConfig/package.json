@@ -1,7 +1,7 @@
 {
   "name": "@ryan-liu/stylelint-config",
   "author": "ryan-liu",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "license": "MIT",
   "main": "lib/index.js",
   "directories": {
@@ -24,5 +24,6 @@
   "dependencies": {
     "stylelint-config-standard-scss": "^3.0.0",
     "stylelint-order": "^5.0.0"
-  }
+  },
+  "gitHead": "61c3138fb393ac5b43f4c5cfb183efc0b4b2d06b"
 }
