@@ -1,6 +1,6 @@
 {
   "name": "@ryan-liu/eslint-config-react-app",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "用与 react tsx 配置",
   "author": "liuyuan <373005226@qq.com>",
   "homepage": "https://github.com/LuckyRyan-web/scripts#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/LuckyRyan-web/scripts/issues"
   },
   "dependencies": {
-    "@ryan-liu/eslint-config-ts": "^0.1.0",
+    "@ryan-liu/eslint-config-ts": "^0.1.1",
     "eslint-config-react-app": "^7.0.1"
   }
 }
