@@ -2,11 +2,21 @@
   "name": "@ryan-liu/stylelint-config",
   "author": "ryan-liu",
   "version": "1.0.0",
-  "main": "index.js",
   "license": "MIT",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
   "publishConfig": {
     "registry": "https://registry.npmjs.org",
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuckyRyan-web/scripts.git"
   },
   "peerDependencies": {
     "stylelint": "^14.0.0"
