@@ -27,6 +27,7 @@
     "url": "https://github.com/LuckyRyan-web/scripts/issues"
   },
   "dependencies": {
+    "@ryan-liu/eslint-config-ts": "^0.1.0-alpha.0",
     "eslint-config-react-app": "^7.0.1",
     "eslint-plugin-jsx-a11y": "^6.5.1",
     "eslint-plugin-react": "^7.30.0",
