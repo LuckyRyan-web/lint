@@ -28,6 +28,7 @@
   },
   "dependencies": {
     "@ryan-liu/eslint-config-ts": "^0.1.1",
+    "eslint-config-react": "^1.1.7",
     "eslint-config-react-app": "^7.0.1"
   }
 }
