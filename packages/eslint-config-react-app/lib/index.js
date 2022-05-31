@@ -1,7 +1,3 @@
-'use strict';
-
-module.exports = eslintConfigReactApp;
-
-function eslintConfigReactApp() {
-    // TODO
+module.exports = {
+    extends: ['react-app']
 }
