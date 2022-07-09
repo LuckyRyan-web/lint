@@ -15,3 +15,11 @@ stylelint-config-rational-order(推荐的 css 顺序规则)
 具体的 stylelint 配置可以查看 `https://stylelint.bootcss.com/`
 
 中文配置: `https://segmentfault.com/a/1190000041521952?sort=votes`
+
+## 使用 
+
+```js
+module.exports = {
+    extends: '@ryan-liu/stylelint-config',
+}
+```
