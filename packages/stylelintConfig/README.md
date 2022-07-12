@@ -18,7 +18,7 @@ stylelint-config-rational-order(推荐的 css 顺序规则)
 
 ## 使用 
 
-```js
+```
 module.exports = {
     extends: '@ryan-liu/stylelint-config',
 }
