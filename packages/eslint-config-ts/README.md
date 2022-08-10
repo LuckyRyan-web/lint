@@ -23,3 +23,6 @@ extends 属性值可以省略包名的前缀 `eslint-config-`。
 
 `eslint-plugin-prettier` 如果同时使用了 eslint 和 prettier 发生冲突了，会关闭掉与 prettier 有冲突的规则，也就是使用 prettier 认为对的规则 
 
+## eslint 文章解析
+
+https://juejin.cn/post/7129771851638636575
